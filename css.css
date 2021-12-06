@@ -1,0 +1,104 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: aliceblue;
+    font-size: 17px;
+}
+
+#poubelles {
+    font-size: 170px;
+    margin-top: 19%;
+}
+
+#pjaune{
+    color: gold;
+    font-size: 60px;
+}
+
+#pbleue{
+    color: #3838ff;
+    font-size: 60px;
+}
+
+#pmarron{
+    color: saddlebrown;
+    font-size: 60px;
+}
+
+#pverte{
+    color: #049d04;
+}
+
+#dechet{
+    font-size: 80px;
+}
+
+#vin{
+    color: #930505;
+    font-size: 60px;
+}
+
+#parfum{
+    color: purple;
+    font-size: 60px;
+}
+
+#journal{
+    color: #979ba1;
+    font-size: 60px;
+
+}
+
+#burger{
+    color: orange;
+    font-size: 60px;
+}
+
+#pizza{
+    color: #f31414;
+    font-size: 60px;
+}
+
+#carton{
+    color: chocolate;
+    font-size: 60px;
+
+}
+
+#papiertoilet{
+    color: #f1a0b0;
+    font-size: 60px;
+}
+
+#papier{
+    color: #c4bdbd;
+    font-size: 60px;
+}
+
+#sac{
+    color: #bb6526;
+    font-size: 60px;
+}
+
+#livre{
+    font-size: 60px;
+}
+
+#dechet{
+
+    margin-top: -35%;
+    margin-left: 7%;
+}
+
+#réglesjeu{
+    margin-left: 55%;
+    margin-right: 5%;
+    margin-top: 3%;
+}
+
+#debut{
+    margin-left: 20%;
+
+}
+#boutoncommencer{
+    margin-left: 2%;
+}
