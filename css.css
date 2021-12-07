@@ -1,95 +1,43 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: cursive, sans-serif;
     background-color: aliceblue;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 #poubelles {
     font-size: 120px;
     margin-top: 19%;
     display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 
 }
 
 #pjaune{
     color: gold;
-    font-size: 60px;
+    font-size: 120px;
 }
 
 #pbleue{
     color: #3838ff;
-    font-size: 60px;
+    font-size: 120px;
+
 }
 
 #pmarron{
     color: saddlebrown;
-    font-size: 60px;
+    font-size: 120px;
 }
 
 #pverte{
     color: #049d04;
+    font-size: 120px;
 }
 
 #dechet{
-    font-size: 80px;
+    font-size: 100px;
 }
 
-#vin{
-    color: #930505;
-    font-size: 60px;
-}
-
-#parfum{
-    color: purple;
-    font-size: 60px;
-}
-
-#journal{
-    color: #979ba1;
-    font-size: 60px;
-
-}
-
-#burger{
-    color: orange;
-    font-size: 60px;
-}
-
-#pizza{
-    color: #f31414;
-    font-size: 60px;
-}
-
-#carton{
-    color: chocolate;
-    font-size: 60px;
-
-}
-
-#papiertoilet{
-    color: #f1a0b0;
-    font-size: 60px;
-}
-
-#papier{
-    color: #c4bdbd;
-    font-size: 60px;
-}
-
-#sac{
-    color: #bb6526;
-    font-size: 60px;
-}
-
-#livre{
-    font-size: 60px;
-}
-
-#dechet{
-
-    margin-top: -35%;
-    margin-left: 7%;
-}
 
 #réglesjeu{
     margin-left: 55%;
@@ -105,6 +53,18 @@ body{
     margin-left: 2%;
 }
 
-.fa-trash{
-    font-size: 80px;
+#imgRandom{
+    margin-left: 20%;
+    margin-top: -25%;
+}
+
+#textjouer{
+    text-align: center;
+}
+
+#start{
+    font-size: 20px;
+    border-radius: 10%;
+    background-color:darkgray;
+    color: black;
 }

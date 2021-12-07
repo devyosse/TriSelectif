@@ -59,5 +59,7 @@ poubelleVerte.addEventListener('click', function (){
 });
 
 
-
+// pense a 2 tableaux
+// un avec lettre de chaque mots
+// un avec des span
 
